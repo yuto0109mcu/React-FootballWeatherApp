@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-FootballWeatherApp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/React-FootballWeatherApp/static/js/main.56b5748e.chunk.js",
-    "main.js.map": "/React-FootballWeatherApp/static/js/main.56b5748e.chunk.js.map",
+    "main.js": "/React-FootballWeatherApp/static/js/main.59ba2efc.chunk.js",
+    "main.js.map": "/React-FootballWeatherApp/static/js/main.59ba2efc.chunk.js.map",
     "runtime-main.js": "/React-FootballWeatherApp/static/js/runtime-main.dbf1c42e.js",
     "runtime-main.js.map": "/React-FootballWeatherApp/static/js/runtime-main.dbf1c42e.js.map",
     "static/js/2.ce03af84.chunk.js": "/React-FootballWeatherApp/static/js/2.ce03af84.chunk.js",
     "static/js/2.ce03af84.chunk.js.map": "/React-FootballWeatherApp/static/js/2.ce03af84.chunk.js.map",
     "index.html": "/React-FootballWeatherApp/index.html",
-    "precache-manifest.d5becb438a9a0f22d5a175fd716ba232.js": "/React-FootballWeatherApp/precache-manifest.d5becb438a9a0f22d5a175fd716ba232.js",
+    "precache-manifest.260bc615aa8a9890740271002ff8bc06.js": "/React-FootballWeatherApp/precache-manifest.260bc615aa8a9890740271002ff8bc06.js",
     "service-worker.js": "/React-FootballWeatherApp/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/React-FootballWeatherApp/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.ce03af84.chunk.js.LICENSE.txt": "/React-FootballWeatherApp/static/js/2.ce03af84.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.dbf1c42e.js",
     "static/js/2.ce03af84.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.56b5748e.chunk.js"
+    "static/js/main.59ba2efc.chunk.js"
   ]
 }
