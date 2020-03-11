@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "731388420dafb089a4c711a14cf1eb72",
+    "revision": "58ce0550f422406b55f4f692f04503f7",
     "url": "/React-FootballWeatherApp/index.html"
   },
   {
-    "revision": "518e8399621a4ac9d270",
+    "revision": "015a9cb92e9d91d8e976",
     "url": "/React-FootballWeatherApp/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-FootballWeatherApp/static/js/2.ce03af84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "518e8399621a4ac9d270",
-    "url": "/React-FootballWeatherApp/static/js/main.59ba2efc.chunk.js"
+    "revision": "015a9cb92e9d91d8e976",
+    "url": "/React-FootballWeatherApp/static/js/main.312e22c7.chunk.js"
   },
   {
     "revision": "8039a91dc386382119e7",
